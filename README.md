@@ -4,14 +4,14 @@ Android voice typing and keyboard customization, maintained by **Chinmay Shastry
 
 Rumbler keyboard is a renamed fork of [PixelBoard](https://github.com/Akshayykadam/PixelBoard), an open-source patch project for Gboard. It is an independent project, not an official Google Pixel keyboard and not affiliated with Google.
 
-<img src="rumbler-icon.png" width="160" alt="Rumbler keyboard icon" />
+<img src="4-rumbler-icon.png" width="160" alt="Rumbler keyboard icon" />
 
 ## Build status
 
 Branding preparation is in progress. **No Rumbler keyboard APK has been built or tested yet.** Do not mistake upstream PixelBoard downloads for a Rumbler release.
 
 - The requested display name is configured in `options.json`.
-- The supplied icon is stored in `rumbler-icon.png`; application-resource integration is still pending.
+- The supplied icon is stored in `4-rumbler-icon.png`; application-resource integration is still pending.
 - Package isolation, in-app branding, update URLs and attribution screens still require review before a release.
 
 ## Voice typing and live dictation
